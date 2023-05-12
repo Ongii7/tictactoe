@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http:Ongii7.github.io/tictactoe",
+  "homepage": "http://Ongii7.github.io/tictactoe",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
@@ -12,9 +12,7 @@
     "gh-pages": "^5.0.0",
     "react-scripts": "^5.0.1"
   },
-  "name": "ljg0t8",
   "description": null,
-  "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
